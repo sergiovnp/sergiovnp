@@ -1,7 +1,8 @@
 ### Hola, soy Sergio! 👋
 
 
-- 🔭 Actualmente trabajo en crear un Portfolio
-- 🌱 Estoy estudiando HTMX, y mejorando en Django
-
+- 📚 Formado en Técnico Programador y Analista de Sistemas
+- 💻 HTML, CSS, Bootstrap, Python, Django, PostgreSQL
+- 🌱 Mejorando en Django...
+- 🔭 Estudiando Django REST framework
 
